@@ -1,0 +1,27 @@
+.head {
+    display: flex;
+    background-color: coral;
+    text-align: center;
+    color: white;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head button {
+    height: 30px;
+}
+
+.head h1 {
+    margin: auto;
+    font-size: 50px;
+}
+
+.gif {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gif img {
+    border-radius: 10px;
+}
